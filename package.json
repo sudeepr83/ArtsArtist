@@ -1,5 +1,5 @@
 {
-  "name": "arts-artist",
+  "name": "arts-artist-test",
   "version": "1.0.0",
   "description": "This is the arts-artist ecommerce project",
   "main": "backend/server.js",
